@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `Following dependencies to be installed using npm`
+
+React Bootstrap => npm install react-bootstrap bootstrap
+
+React Star Ratings => npm install --save react-star-ratings
+
+### `The following line can be included in your src/index.js or App.js file`
+
+import 'bootstrap/dist/css/bootstrap.min.css';
