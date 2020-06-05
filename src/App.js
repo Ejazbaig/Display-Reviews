@@ -149,6 +149,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <h2>Review Displayer</h2>
         <SearchBar
           onProductIDChange={this.onProductIDChange}
           onViewerIDChange={this.onViewerIDChange}
